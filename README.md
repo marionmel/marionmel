@@ -1,10 +1,5 @@
 # About me
-
-
 **marionmel** `README.md`
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building a healthier diet
 - 🌱 I’m currently learning how to be a student again 😅
 - 👯 I’m looking to collaborate on anything that peaks my interest
